@@ -1,8 +1,9 @@
 {
-  "author": "Theo Ephraim <theozero@gmail.com> (https://theoephraim.com)",
-  "name": "google-spreadsheet",
+  "author": "Alexander Tranvaag <alextranvaag@gmail.com> (https://alextranvaag.com)",
+  "contributors": ["Theo Ephraim <theozero@gmail.com> (https://theoephraim.com)"],
+  "name": "@alexvimbly/google-spreadsheet",
   "description": "Google Sheets API (v4) -- simple interface to read/write data and manage sheets",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "license": "Unlicense",
   "keywords": [
     "google spreadsheets",
